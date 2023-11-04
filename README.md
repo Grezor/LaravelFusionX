@@ -1,13 +1,11 @@
 # LaravelFusionX
-
+Laravel 10
 ## packages : 
 
 ```
-- Laravel 10
 - Tailwindcss
-
-- Laravel Permission 
-- Socialite
-- BladeUi/kit 
 - Jetstream 
+- Socialite (Github/Google)
+- Laravel Permission 
+- BladeUi/kit 
 ```
